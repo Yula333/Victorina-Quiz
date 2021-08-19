@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="btn_correct">Верно</string>
+    <string name="btn_incorrect">Не   верно</string>
+    <string name="app_next">Следующий вопрос</string>
+
+    <string name="question_1">Правда ли, что Россия самая большая страна в мире?</string>
+    <string name="question_2">Правда, что Сергей Брин основатель Google?</string>
+    <string name="question_3">На радуге 9 цветов?</string>
+    <string name="question_4">Правда ли, что самая известная картина Малевича - это "Черный квадрат"?</string>
+    <string name="question_5">Земля самая большая планета Солнечной системы?</string>
+
+</resources>
